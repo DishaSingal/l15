@@ -1,0 +1,3 @@
+maths : linear equations in one variable
+science : photosynthesis
+coding : if statement
